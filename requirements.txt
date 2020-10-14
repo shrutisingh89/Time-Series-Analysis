@@ -1,0 +1,9 @@
+jupyter
+pandas
+matplotlib
+statsmodels
+keras
+sklearn
+seaborn
+xgboost
+arch
